@@ -1,0 +1,5 @@
+name:에스프레소 콘 파나
+price:3800
+kinds:에스프레소
+eng_name:conpanna
+file_path:C:/Users/rella/OneDrive/바탕 화면/20210730/order/menu/image/esp_conpanna.PNG

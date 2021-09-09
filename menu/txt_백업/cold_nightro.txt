@@ -1,0 +1,5 @@
+name:나이트로 콜드 브루
+price:5800
+kinds:콜드 브루
+eng_name:nightro
+file_path:C:/Users/rella/OneDrive/바탕 화면/20210730/order/menu/image/cold_nightro.PNG

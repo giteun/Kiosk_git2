@@ -1,0 +1,5 @@
+name:콜드 브루
+price:4500
+kinds:콜드 브루
+eng_name:brew
+file_path:C:/Users/rella/OneDrive/바탕 화면/20210730/order/menu/image/cold_brew.PNG

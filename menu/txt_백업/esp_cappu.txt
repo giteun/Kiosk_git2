@@ -1,0 +1,5 @@
+name:카푸치노
+price:4600
+kinds:에스프레소
+eng_name:cappu
+file_path:C:/Users/rella/OneDrive/바탕 화면/20210730/order/menu/image/esp_cappu.PNG

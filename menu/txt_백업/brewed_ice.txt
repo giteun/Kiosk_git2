@@ -1,0 +1,5 @@
+name:아이스 커피
+price:4100
+kinds:브루드
+eng_name:ice
+file_path:C:/Users/rella/OneDrive/바탕 화면/20210730/order/menu/image/brewed_ice.PNG

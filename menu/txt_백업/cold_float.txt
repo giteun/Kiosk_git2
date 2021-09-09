@@ -1,0 +1,5 @@
+name:콜드 브루 플로트
+price:8000
+kinds:콜드 브루
+eng_name:float
+file_path:C:/Users/rella/OneDrive/바탕 화면/20210730/order/menu/image/cold_float.PNG

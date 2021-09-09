@@ -1,0 +1,5 @@
+name:오늘의 커피
+price:3800
+kinds:브루드
+eng_name:drip
+file_path:C:/Users/rella/OneDrive/바탕 화면/20210730/order/menu/image/brewed_drip.PNG

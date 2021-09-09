@@ -1,0 +1,5 @@
+name:콜드 브루 오트 라떼
+price:5600
+kinds:콜드 브루
+eng_name:oat
+file_path:C:/Users/rella/OneDrive/바탕 화면/20210730/order/menu/image/cold_oat.PNG
